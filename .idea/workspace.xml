@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11e06493-862d-4277-8f3e-4f5aff60e4d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/webj/main/templates/main/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webj/main/templates/main/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webj/main/templates/main/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webj/main_1/templates/main_1/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webj/main_1/templates/main_1/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webj/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webj/main/templates/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webj/main/templates/main/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/webj/main/templates/main/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webj/main_1/templates/main_1/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/webj/main_1/templates/main_1/data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webj/main_1/templates/main_1/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/webj/main_1/templates/main_1/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webj/main/templates/main/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/webj/main/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +38,15 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PyCh\webDj\webj\main\templates" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
